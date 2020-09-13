@@ -1,4 +1,7 @@
 
+![Algolia logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Algolia-logo.svg/1280px-Algolia-logo.svg.png)
+
+
 # GoPlaces
 
 Simple wrapper for Algolia Places API with extended functionality
