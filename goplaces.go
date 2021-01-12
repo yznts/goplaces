@@ -18,6 +18,7 @@ var AppKey string
 type Parameters struct {
 	Query     string `json:"query"`
 	Countries string `json:"countries"`
+	Type      string `json:"type"`
 	AppID     string
 	AppKey    string
 }
